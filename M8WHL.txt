@@ -1,0 +1,13 @@
+https://download.lineageos.org/m8
+  lineage-14.1-20190207-nightly-m8-signed.zip
+https://download.lineageos.org/m8
+  lineage-16.0-20190824-nightly-m8-signed
+https://wiki.lineageos.org/devices/m8/install
+https://twrp.me/htc/htconem8gsm.html 3.2.3-1
+https://forum.xda-developers.com/htc-one-m8/development/rom-lineageos-16-0-htc-one-m8-t3837538
+  lineage-16.0-20190305-UNOFFICIAL-m8.zip
+
+
+6.20.651.3_firmware_no_recovery.zip
+UniversalAdbDriverSetup.msi
+RUU_M8_WHL_M60_SENSE70_SPCS_MR_Sprint_WWE_6.20.651.3.exe
