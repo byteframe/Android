@@ -6,8 +6,20 @@ https://wiki.lineageos.org/devices/m8/install
 https://twrp.me/htc/htconem8gsm.html 3.2.3-1
 https://forum.xda-developers.com/htc-one-m8/development/rom-lineageos-16-0-htc-one-m8-t3837538
   lineage-16.0-20190305-UNOFFICIAL-m8.zip
-
+  lineage-17.1-20200814-nightly-m8-signed
 
 6.20.651.3_firmware_no_recovery.zip
 UniversalAdbDriverSetup.msi
 RUU_M8_WHL_M60_SENSE70_SPCS_MR_Sprint_WWE_6.20.651.3.exe
+
+
+https://mirrorbits.lineageos.org/full/m8/20200529/lineage-17.1-20200529-nightly-m8-signed.zip
+crashes once the phone is unplugged: https://www.reddit.com/r/LineageOS/comments/fu08yz/lineage_os_171_powers_off_on_first_boot/
+try oldest version or go back to lineageos 16
+
+Current Stack:
+
+https://dl.twrp.me/m8/twrp-3.3.1-0-m8.img.html
+https://mirrorbits.lineageos.org/full/m8/20200324/lineage-16.0-20200324-nightly-m8-signed.zip
+https://magisk.me/
+https://opengapps.org/?api=9.0&variant=pico
